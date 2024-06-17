@@ -1,1 +1,1 @@
-# mulesoft-cicd-sample
+This is a sample Mule project
